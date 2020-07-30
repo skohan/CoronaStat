@@ -11,7 +11,7 @@ Website Link:👉 sk-coronastat.netlify.com
 (Little slow)
 
 <img src = "https://github.com/sohan-k/CoronaStat/blob/master/images/0.jpeg" height = "400" width = "200" />
-<img src="https://github.com/sohan-k/CoronaStat/blob/master/images/0%20(2).jpeg" width = "400" height="200" />
+<img src="https://github.com/sohan-k/CoronaStat/blob/master/images/0%20(2).jpeg" width = "200" height="400" />
 <img src = "https://github.com/sohan-k/CoronaStat/blob/master/images/0%20(1).jpeg" height = "400" width = "200" />
 <img src = "https://github.com/sohan-k/CoronaStat/blob/master/images/0%20(3).jpeg" height = "400" width = "200" />
 <img src = "https://github.com/sohan-k/CoronaStat/blob/master/images/0%20(4).jpeg" height = "400" width = "200" />
