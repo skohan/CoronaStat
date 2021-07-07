@@ -7,7 +7,7 @@ Hello everyone!👋 During this coronavirus pandemic, I've been building a #Flut
 
 Hope you'll find it helpful :)
 
-Android App Link:👉 https://bit.ly/3cfU9jt
+Android App Link:👉 [https://bit.ly/3cfU9jt](https://bit.ly/3cfU9jt)
 (Stable, fast)
 Website Link:👉 [Webiste](https://skohan.github.io/CoronaStat/website/#/)
 
